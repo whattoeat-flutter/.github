@@ -1,0 +1,7 @@
+![(1-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452911-f73d96e3-65bb-47a7-bea3-15b38f4835fa.jpg)
+![(2-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452921-330c299b-dc64-43fb-a179-ae48bb34e5aa.jpg)
+![(3-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452928-eaf1c432-1239-4cca-aabf-79797fc43361.jpg)
+![(4-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452935-abd5e773-a0aa-43fa-9e7d-00381091754f.jpg)
+![(5-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452951-3c6f43f5-a458-4508-981c-d1cd8b0955fd.jpg)
+![(6-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452961-db3ae7f6-dacb-4ec2-8ce9-fd580c39cc83.jpg)
+![(7-7) mobile app user manual](https://user-images.githubusercontent.com/55645090/232452971-12df4b8a-91ad-4b7e-88bc-2db64d5c1235.jpg)
